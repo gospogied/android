@@ -1,4 +1,4 @@
-repo init -u git@github.com:commaai/android.git -b mindroid
+repo init -u git@github.com:gospogied/android.git -b mindroid-mi5
 repo sync
 
 source build/envsetup.sh
