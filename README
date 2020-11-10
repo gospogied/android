@@ -2,6 +2,6 @@ repo init -u git@github.com:gospogied/android.git -b mindroid-mi5
 repo sync
 
 source build/envsetup.sh
-breakfast oneplus3
-brunch oneplus3
+breakfast [oneplus3|gemini]
+brunch [oneplus3|gemini]
 
