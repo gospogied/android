@@ -7,7 +7,7 @@
   
   <default remote="github" revision="refs/heads/cm-13.0" sync-c="true" sync-j="4"/>
   
-  <project name="commaai/android" path="android" remote="private" revision="mindroid" upstream="mindroid"/>
+  <project name="gospogied/android" path="android" remote="private" revision="mindroid" upstream="mindroid"/>
 
 <!-- device specific -->
   <!-- build system -->
